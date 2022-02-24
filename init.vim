@@ -172,7 +172,7 @@ colo space_vim_theme
 " {{{ startify settings
 let g:startify_bookmarks = [
       \ { 'b': '~/.bashrc' },
-      \ { 'v': '~/.myconfig/init.vim' },
+      \ { 'v': '~/.config/nvim/init.vim' },
       \ ]
 let g:startify_lists = [
       \ { 'header': ['   Bookmarks'],      'type': 'bookmarks' },
